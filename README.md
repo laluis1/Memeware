@@ -1,3 +1,1 @@
-# Memeware
-Legit, it just ransomware that makes you play lifeforce and get an acceptable score (but its also liek... not secure when it comes to detecting game hacks, although it tells you not to use cheat engine if you open it, you could still use it to modify the actual thingo) (mostly as a game dev thing, less for security)
-(Also, for now, the crypto is very breakable, like, anyone who knows even one type of encryption should know this type :P)
+Terrible ransomware as far as ransomware comes (in terms of effectiveness). Its not supposed to be malicious (however, I hold no responsibiltiy if you misuse it or if you cant get files back.). That asside, its a java program that encrypts your files with a ceaser cypher (Woah, thats like, the most secure algorithm, forget AES or RSA ;P). Either way, it makes you play a game, if you win, it restores your files, otherwise... nothing, just keep at it :P
